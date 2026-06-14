@@ -1,0 +1,201 @@
+customer,total_revenue,total_profit,total_quantity,total_orders,Segment,Segment_Name
+Customer_1,5754000,1718440.01,330,30,1,VIP Customers
+Customer_10,3557000,940465.4,201,25,0,Regular Customers
+Customer_100,6661500,1946910.96,367,30,1,VIP Customers
+Customer_101,4692000,1317160.1400000001,278,26,3,High Value Customers
+Customer_102,6095000,1805547.81,350,29,1,VIP Customers
+Customer_103,4299500,1215406.17,286,27,3,High Value Customers
+Customer_104,4250500,1356767.78,257,25,0,Regular Customers
+Customer_105,5782000,1771295.3,337,32,1,VIP Customers
+Customer_106,4247500,1193470.0,254,23,0,Regular Customers
+Customer_107,5370000,1332125.7,244,29,3,High Value Customers
+Customer_108,4673500,1340774.55,243,21,0,Regular Customers
+Customer_109,2668000,680487.17,209,26,2,Low Value Customers
+Customer_11,4636500,1219981.92,385,30,3,High Value Customers
+Customer_110,4164500,1128226.93,345,29,3,High Value Customers
+Customer_111,2074500,561449.58,268,24,2,Low Value Customers
+Customer_112,4401500,1061398.67,252,25,0,Regular Customers
+Customer_113,2636000,778570.46,186,16,2,Low Value Customers
+Customer_114,3736500,1008118.59,261,24,0,Regular Customers
+Customer_115,4463500,1267357.67,297,31,3,High Value Customers
+Customer_116,4098000,1178115.34,215,19,0,Regular Customers
+Customer_117,6260500,1872733.25,266,26,1,VIP Customers
+Customer_118,3244500,889511.12,246,19,2,Low Value Customers
+Customer_119,2927000,834629.38,202,19,2,Low Value Customers
+Customer_12,3916000,1041147.33,373,37,3,High Value Customers
+Customer_120,5933000,1591628.53,362,31,1,VIP Customers
+Customer_121,5304000,1300335.11,306,29,3,High Value Customers
+Customer_122,1614500,422929.46,141,15,2,Low Value Customers
+Customer_123,3325500,1001513.92,279,28,3,High Value Customers
+Customer_124,3394500,937055.66,227,18,2,Low Value Customers
+Customer_125,2784500,754889.51,251,25,2,Low Value Customers
+Customer_126,4185000,955727.78,319,27,3,High Value Customers
+Customer_127,4789500,1430022.23,178,15,0,Regular Customers
+Customer_128,3117500,848581.8099999999,175,20,2,Low Value Customers
+Customer_129,4390000,1279763.99,236,25,0,Regular Customers
+Customer_13,7406500,2219337.32,353,28,1,VIP Customers
+Customer_130,2699000,799607.07,198,23,2,Low Value Customers
+Customer_131,3395500,825951.88,202,24,2,Low Value Customers
+Customer_132,4796000,1215989.23,362,33,3,High Value Customers
+Customer_133,4395000,1344856.32,299,26,3,High Value Customers
+Customer_134,3500000,1034475.36,211,21,0,Regular Customers
+Customer_135,4978000,1326821.67,356,30,3,High Value Customers
+Customer_136,4058000,1232113.93,291,26,3,High Value Customers
+Customer_137,6565000,1765817.25,302,29,1,VIP Customers
+Customer_138,4368000,1037048.7999999999,178,17,0,Regular Customers
+Customer_139,3686000,1068545.53,208,20,0,Regular Customers
+Customer_14,2757000,813412.81,202,21,2,Low Value Customers
+Customer_140,5860000,1636925.18,324,28,1,VIP Customers
+Customer_141,2536000,681314.26,243,23,2,Low Value Customers
+Customer_142,5557500,1541002.38,321,32,1,VIP Customers
+Customer_143,3099500,779869.3,242,29,0,Regular Customers
+Customer_144,1051000,275669.79,165,20,2,Low Value Customers
+Customer_145,3663500,1190898.09,168,17,2,Low Value Customers
+Customer_146,5039000,1494086.63,329,29,3,High Value Customers
+Customer_147,2751500,649634.84,225,27,2,Low Value Customers
+Customer_148,4535000,1122683.17,269,23,0,Regular Customers
+Customer_149,3247000,934354.23,243,22,0,Regular Customers
+Customer_15,4224500,1106588.48,232,22,0,Regular Customers
+Customer_150,3122500,865568.23,213,18,2,Low Value Customers
+Customer_151,4768000,1362283.25,241,25,0,Regular Customers
+Customer_152,1971000,567867.01,162,19,2,Low Value Customers
+Customer_153,3724000,1157099.74,197,19,0,Regular Customers
+Customer_154,3005500,806533.62,213,22,2,Low Value Customers
+Customer_155,2790000,831851.95,180,19,2,Low Value Customers
+Customer_156,4067000,1276099.07,216,21,0,Regular Customers
+Customer_157,3310500,1088146.24,233,21,0,Regular Customers
+Customer_158,4425500,1268831.6400000001,227,25,0,Regular Customers
+Customer_159,3910500,1028877.12,331,33,3,High Value Customers
+Customer_16,4150500,996319.12,214,22,0,Regular Customers
+Customer_160,4693000,1356301.95,354,35,3,High Value Customers
+Customer_161,3785500,1243370.89,194,22,0,Regular Customers
+Customer_162,5540000,1351277.96,293,30,3,High Value Customers
+Customer_163,2004000,623930.0900000001,180,19,2,Low Value Customers
+Customer_164,4485000,1238271.65,298,30,3,High Value Customers
+Customer_165,3486000,869224.51,250,27,0,Regular Customers
+Customer_166,4042500,1087894.45,260,20,0,Regular Customers
+Customer_167,6899000,1960428.0,329,27,1,VIP Customers
+Customer_168,5311500,1417462.45,288,24,3,High Value Customers
+Customer_169,1970500,537324.23,160,22,2,Low Value Customers
+Customer_17,5356000,1713743.1,214,22,0,Regular Customers
+Customer_170,4541000,1304352.02,246,28,3,High Value Customers
+Customer_171,5880500,1491684.24,422,34,1,VIP Customers
+Customer_172,3465000,923501.2,200,18,2,Low Value Customers
+Customer_173,4653500,1255131.52,321,29,3,High Value Customers
+Customer_174,7402500,2150396.35,336,33,1,VIP Customers
+Customer_175,2908500,882605.47,132,14,2,Low Value Customers
+Customer_176,4271500,1217476.67,302,27,3,High Value Customers
+Customer_177,4142500,1173645.44,183,22,0,Regular Customers
+Customer_178,3532500,937449.9400000001,178,21,2,Low Value Customers
+Customer_179,3224500,822035.18,190,20,2,Low Value Customers
+Customer_18,3044500,889668.97,280,23,0,Regular Customers
+Customer_180,3307000,922360.91,210,22,2,Low Value Customers
+Customer_181,4368500,1219093.28,300,28,3,High Value Customers
+Customer_182,4079000,1127731.76,226,23,0,Regular Customers
+Customer_183,3430500,975209.29,231,26,0,Regular Customers
+Customer_184,4831500,1297185.84,252,24,0,Regular Customers
+Customer_185,2656000,698039.62,191,21,2,Low Value Customers
+Customer_186,7836000,1880737.87,342,33,1,VIP Customers
+Customer_187,5925000,1755707.13,306,31,1,VIP Customers
+Customer_188,5077500,1431451.15,302,28,3,High Value Customers
+Customer_189,5461500,1667956.38,232,21,0,Regular Customers
+Customer_19,5064500,1429477.25,337,33,3,High Value Customers
+Customer_190,6763000,1750430.67,372,34,1,VIP Customers
+Customer_191,3081500,762811.03,215,24,2,Low Value Customers
+Customer_192,3559500,889713.51,192,20,2,Low Value Customers
+Customer_193,3601500,974843.04,270,25,0,Regular Customers
+Customer_194,3730000,1061779.67,357,31,3,High Value Customers
+Customer_195,3757000,896597.72,279,23,0,Regular Customers
+Customer_196,3594500,1001367.05,230,22,0,Regular Customers
+Customer_197,5503000,1559257.48,326,29,1,VIP Customers
+Customer_198,2178000,701965.8300000001,191,21,2,Low Value Customers
+Customer_199,5388000,1623373.1,340,34,1,VIP Customers
+Customer_2,2575000,706005.8999999999,228,27,2,Low Value Customers
+Customer_20,3019500,618478.39,189,23,2,Low Value Customers
+Customer_200,5967000,1834410.95,349,28,1,VIP Customers
+Customer_21,5003500,1261399.76,309,28,3,High Value Customers
+Customer_22,4548500,1282779.05,302,24,3,High Value Customers
+Customer_23,3727500,990968.29,184,22,0,Regular Customers
+Customer_24,2606000,714773.76,185,20,2,Low Value Customers
+Customer_25,4783000,1296088.56,325,29,3,High Value Customers
+Customer_26,4626000,1149586.45,226,20,0,Regular Customers
+Customer_27,3187000,918234.79,211,21,2,Low Value Customers
+Customer_28,5022000,1465860.88,348,32,3,High Value Customers
+Customer_29,3605000,795850.59,244,23,0,Regular Customers
+Customer_3,4240000,1208388.23,343,35,3,High Value Customers
+Customer_30,3547000,891550.48,255,23,0,Regular Customers
+Customer_31,2535000,727709.9,252,21,2,Low Value Customers
+Customer_32,3380000,1035860.52,164,16,2,Low Value Customers
+Customer_33,5963000,1682376.22,354,34,1,VIP Customers
+Customer_34,6286000,1605033.94,466,33,1,VIP Customers
+Customer_35,3615000,1027876.37,180,16,2,Low Value Customers
+Customer_36,2631500,808985.89,171,22,2,Low Value Customers
+Customer_37,3363000,795133.13,197,19,2,Low Value Customers
+Customer_38,5850000,1709695.96,345,32,1,VIP Customers
+Customer_39,3860000,1015937.3,276,29,3,High Value Customers
+Customer_4,5864500,1526363.94,362,32,1,VIP Customers
+Customer_40,3292000,858371.6900000001,252,23,0,Regular Customers
+Customer_41,8982000,2317414.2,350,28,1,VIP Customers
+Customer_42,3529500,1102038.91,215,20,0,Regular Customers
+Customer_43,3983000,1026107.24,228,21,0,Regular Customers
+Customer_44,4890000,1431772.58,353,34,3,High Value Customers
+Customer_45,4190000,1137053.97,294,25,3,High Value Customers
+Customer_46,6162000,1826246.93,321,30,1,VIP Customers
+Customer_47,5330000,1490247.17,276,27,3,High Value Customers
+Customer_48,5267500,1488996.73,309,30,3,High Value Customers
+Customer_49,8148000,2463437.8,332,25,1,VIP Customers
+Customer_5,4390500,1079232.09,324,27,3,High Value Customers
+Customer_50,5598500,1540575.57,287,28,3,High Value Customers
+Customer_51,3375500,922855.1699999999,224,20,2,Low Value Customers
+Customer_52,3832500,1067098.67,232,27,0,Regular Customers
+Customer_53,3622500,840238.77,285,28,3,High Value Customers
+Customer_54,3763500,933000.83,215,25,0,Regular Customers
+Customer_55,4821000,1248050.58,272,30,3,High Value Customers
+Customer_56,7553500,2274691.01,357,28,1,VIP Customers
+Customer_57,3869500,1010157.5,337,33,3,High Value Customers
+Customer_58,2664500,831968.88,258,25,2,Low Value Customers
+Customer_59,4377500,1289129.87,200,21,0,Regular Customers
+Customer_6,2043000,549443.46,188,22,2,Low Value Customers
+Customer_60,3676500,924382.83,212,19,2,Low Value Customers
+Customer_61,5138500,1384937.76,344,28,3,High Value Customers
+Customer_62,2597000,749108.77,237,20,2,Low Value Customers
+Customer_63,4522500,1143283.2,287,22,0,Regular Customers
+Customer_64,3939000,1145788.98,293,29,3,High Value Customers
+Customer_65,3497000,1025613.5800000001,232,20,0,Regular Customers
+Customer_66,2886000,842262.75,126,14,2,Low Value Customers
+Customer_67,4965000,1210725.69,239,23,0,Regular Customers
+Customer_68,2803500,774193.73,278,29,0,Regular Customers
+Customer_69,4275000,1295352.83,297,25,3,High Value Customers
+Customer_7,3873500,1138777.7,242,27,0,Regular Customers
+Customer_70,6137000,1648532.53,274,24,1,VIP Customers
+Customer_71,4314500,951642.31,299,26,3,High Value Customers
+Customer_72,2231000,601038.95,172,19,2,Low Value Customers
+Customer_73,4333500,1280440.43,250,28,3,High Value Customers
+Customer_74,3799500,1034315.2,222,24,0,Regular Customers
+Customer_75,4817500,1285869.82,276,30,3,High Value Customers
+Customer_76,4275500,1290198.23,215,16,0,Regular Customers
+Customer_77,3415000,1058226.72,250,23,0,Regular Customers
+Customer_78,6428500,1784257.32,420,36,1,VIP Customers
+Customer_79,4875000,1259726.33,331,29,3,High Value Customers
+Customer_8,3241000,822108.52,226,20,2,Low Value Customers
+Customer_80,2893500,773313.27,271,27,0,Regular Customers
+Customer_81,4544000,1196228.6199999999,294,31,3,High Value Customers
+Customer_82,4037500,944120.97,225,20,0,Regular Customers
+Customer_83,3447000,950542.08,188,20,2,Low Value Customers
+Customer_84,5208500,1262345.0,295,32,3,High Value Customers
+Customer_85,3150500,923872.9,166,19,2,Low Value Customers
+Customer_86,4020000,1029273.52,183,19,0,Regular Customers
+Customer_87,2723000,828031.06,172,19,2,Low Value Customers
+Customer_88,4180000,1129520.4,256,26,0,Regular Customers
+Customer_89,3175500,773353.5,296,26,0,Regular Customers
+Customer_9,5438000,1566715.86,343,33,1,VIP Customers
+Customer_90,3792500,1031402.14,213,22,0,Regular Customers
+Customer_91,3536000,1035843.6799999999,266,26,0,Regular Customers
+Customer_92,5212500,1519849.56,329,28,3,High Value Customers
+Customer_93,3051500,783434.95,258,23,2,Low Value Customers
+Customer_94,4326000,1092855.42,304,28,3,High Value Customers
+Customer_95,4835500,1490379.1600000001,218,21,0,Regular Customers
+Customer_96,2517500,576248.34,225,26,2,Low Value Customers
+Customer_97,3083000,779533.71,219,23,2,Low Value Customers
+Customer_98,5034500,1296920.17,248,23,0,Regular Customers
+Customer_99,4541000,1225271.6199999999,264,22,0,Regular Customers
